@@ -34,3 +34,5 @@ function App() {
 }
 
 export default App;
+
+// left off at Understanding Routes from https://blog.logrocket.com/react-router-dom-tutorial-examples/
